@@ -23,18 +23,24 @@
   max-width: 100%;
 }
 
-
-#pro-title{
-  margin: 0em 1em;
-  font-size: 150%;
+#nav-h2 {
+  color: white;
+  margin: 0px;
+  font-size: 140%;
 }
 
-
-#nav-brand {
-  color: black;
+nav {
+  background: #222222;
 }
 
+#jumbo-sec {
+  margin-top: 100px;
+}
 
-#launch {
-  cursor: pointer;
+#jumbo-sec p {
+  font-size: 22px;
+}
+
+#jumbo-h1 {
+  font-size: 69px;
 }
